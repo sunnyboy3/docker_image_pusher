@@ -1,3 +1,4 @@
+node:18.15.0-alpine3.17
 #支持私库
 opengrok/docker
 #支持指定架构
