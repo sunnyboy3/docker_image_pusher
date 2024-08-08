@@ -1,4 +1,4 @@
-flink:1.14.6-scala_2.12-java8
+dinky:1.1.0-flink1.14
 #支持私库
 opengrok/docker
 #支持指定架构
