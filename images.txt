@@ -1,4 +1,4 @@
-dinkydocker/dinky-standalone-server:1.1.0-flink1.17
+dinkydocker/dinky-standalone-server:1.1.0-flink1.14
 #支持私库
 opengrok/docker
 #支持指定架构
