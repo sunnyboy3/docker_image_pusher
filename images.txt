@@ -1,4 +1,4 @@
-dinkydocker/dinky-standalone-server:1.1.0-flink1.14
+docker.io/mysql:8.0
 #支持私库
 opengrok/docker
 #支持指定架构
