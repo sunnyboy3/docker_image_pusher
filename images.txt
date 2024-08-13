@@ -1,4 +1,4 @@
-sidecar-log-collector:latest
+dwpdigital/sidecar-log-collector:latest
 #支持私库
 opengrok/docker
 #支持指定架构
