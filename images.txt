@@ -1,4 +1,4 @@
-flink:1.16.3-scala_2.12-java8
+sidecar-log-collector:latest
 #支持私库
 opengrok/docker
 #支持指定架构
