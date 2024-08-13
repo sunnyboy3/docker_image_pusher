@@ -1,5 +1,5 @@
 cert-manager-cainjector:v1.10.0
 #支持私库
-opengrok/docker
+docker.io
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
