@@ -1,4 +1,4 @@
-sidecar-log-collector:latest
+cert-manager-cainjector:v1.10.0
 #支持私库
 opengrok/docker
 #支持指定架构
