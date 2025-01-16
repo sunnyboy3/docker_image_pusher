@@ -1,4 +1,4 @@
-rocketmqinc/rocketmq:4.3.2
+pangliang/rocketmq-console-ng
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics
 #支持指定架构
