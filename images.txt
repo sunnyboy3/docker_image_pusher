@@ -1,4 +1,4 @@
-apache/kyuubi:1.9.4
+ghcr.io/apache/flink-kubernetes-operator:0315e91
 #支持私
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics
 #支持指定架构
