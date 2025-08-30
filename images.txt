@@ -1,4 +1,4 @@
-ghcr.io/apache/flink-kubernetes-operator:0315e91
+dinkydocker/dinky-standalone-server:1.1.0-flink1.17
 #支持私
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics
 #支持指定架构
