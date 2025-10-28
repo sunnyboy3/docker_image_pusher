@@ -1,4 +1,4 @@
-eipwork/kuboard:v3.5.2.9
+eipwork/kuboard-agent:v3
 #支持私
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics
 #支持指定架构
