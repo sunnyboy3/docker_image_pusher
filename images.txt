@@ -1,4 +1,4 @@
-zhparser/zhparser:bookworm-16
+mysql:8.0.36
 #支持私
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics
 #支持指定架构
