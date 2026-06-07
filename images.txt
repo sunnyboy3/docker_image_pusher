@@ -1,9 +1,4 @@
-apache/dolphinscheduler-api:3.1.5
-apache/dolphinscheduler-master:3.1.5
-apache/dolphinscheduler-worker:3.1.5
-prom/prometheus:v2.54.1
-grafana/grafana:11.2.0
-postgres:16-alpine
+apache/amoro:0.8.1
 #支持私
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics
 #支持指定架构
